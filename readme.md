@@ -38,8 +38,8 @@ A Streamlit application that records audio from your microphone, converts speech
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/speech-to-text-filter.git
-cd speech-to-text-filter
+git clone https://github.com/RebwarOmer/STT-with-Automated-Content-Filtering.git
+cd STT-with-Automated-Content-Filtering
 ```
 
 ### Create a virtual environment
